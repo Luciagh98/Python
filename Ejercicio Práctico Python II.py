@@ -46,3 +46,6 @@ def tres_en_linea():
 
 if __name__ == "__main__":
      tres_en_linea()
+
+
+#Que pasa si el jugador pone otro numero que no sea del 0 al 2?
